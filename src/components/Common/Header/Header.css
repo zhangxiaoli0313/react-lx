@@ -1,0 +1,27 @@
+header{
+    height: 50px;
+    background: red;
+}
+header b{
+    display: inline-block;
+    width: 10%;
+    text-align: center;
+}
+header input{
+    width: 70%;
+    line-height: 30px; 
+    margin-top: 10px;
+    border: 0;
+    border-radius: 10px;
+}
+header span{
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+    /* line-height: 30px; */
+    color: #fff;
+}
+header .iconfont{
+    font-size: 22px;
+    color: #fff;
+}
